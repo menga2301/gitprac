@@ -1,4 +1,4 @@
 # gitprac
 learning git & github
 <br>
-author - sudeep menga
+author - sudeep kumar menga
